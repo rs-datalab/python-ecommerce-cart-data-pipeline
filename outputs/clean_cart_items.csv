@@ -1,0 +1,199 @@
+cart_id,cart_total,cart_discounted_total,user_id,cart_total_products,cart_total_quantity,product_id,product_title,product_price,product_quantity,product_total,product_discount_percentage,product_discounted_total,product_category,product_rating,product_stock,product_tags,product_brand,user_first_name,user_last_name,user_age,user_gender,username
+1,103774.85,89686.65,33,4,15,168,Charger SXT RWD,32999.99,3,98999.97,13.39,85743.87,vehicle,2.58,57,"['sedans', 'sports cars', 'vehicles']",Dodge,Carter,Baker,32,male,carterb
+1,103774.85,89686.65,33,4,15,78,Apple MacBook Pro 14 Inch Space Grey,1999.99,2,3999.98,18.52,3259.18,laptops,3.65,24,"['laptops', 'apple']",Apple,Carter,Baker,32,male,carterb
+1,103774.85,89686.65,33,4,15,183,Green Oval Earring,24.99,5,124.94999999999999,6.28,117.1,womens-jewellery,3.57,73,"['fashion accessories', 'earrings']",Unknown,Carter,Baker,32,male,carterb
+1,103774.85,89686.65,33,4,15,100,Apple Airpods,129.99,5,649.95,12.84,566.5,mobile-accessories,4.15,67,"['electronics', 'wireless earphones']",Apple,Carter,Baker,32,male,carterb
+2,4794.8,4288.95,142,5,20,144,Cricket Helmet,44.99,4,179.96,11.47,159.32,sports-accessories,4.69,10,"['sports equipment', 'cricket']",Unknown,Aria,Parker,28,female,ariam
+2,4794.8,4288.95,142,5,20,124,iPhone X,899.99,4,3599.96,8.03,3310.88,smartphones,2.51,37,"['smartphones', 'apple']",Apple,Aria,Parker,28,female,ariam
+2,4794.8,4288.95,142,5,20,148,Golf Ball,9.99,4,39.96,11.24,35.47,sports-accessories,4.3,84,"['sports equipment', 'golf']",Unknown,Aria,Parker,28,female,ariam
+2,4794.8,4288.95,142,5,20,122,iPhone 6,299.99,3,899.97,19.64,723.22,smartphones,3.41,60,"['smartphones', 'apple']",Apple,Aria,Parker,28,female,ariam
+2,4794.8,4288.95,142,5,20,110,Selfie Lamp with iPhone,14.99,5,74.95,19.87,60.06,mobile-accessories,3.55,58,"['electronics', 'selfie accessories']",GadgetMaster,Aria,Parker,28,female,ariam
+3,16775.87,14144.3,108,5,13,98,Rolex Submariner Watch,13999.99,1,13999.99,16.35,11710.99,mens-watches,2.69,55,"['watches', 'luxury watches']",Rolex,James,Garcia,46,male,jamesg
+3,16775.87,14144.3,108,5,13,125,Oppo A57,249.99,5,1249.95,16.54,1043.21,smartphones,3.94,19,"['smartphones', 'oppo']",Oppo,James,Garcia,46,male,jamesg
+3,16775.87,14144.3,108,5,13,55,Egg Slicer,6.99,2,13.98,16.04,11.74,kitchen-accessories,3.09,40,"['kitchen tools', 'slicers']",Unknown,James,Garcia,46,male,jamesg
+3,16775.87,14144.3,108,5,13,62,Ice Cube Tray,5.99,2,11.98,8.25,10.99,kitchen-accessories,4.71,13,"['kitchen tools', 'ice cube trays']",Unknown,James,Garcia,46,male,jamesg
+3,16775.87,14144.3,108,5,13,132,Samsung Galaxy S8,499.99,3,1499.97,8.84,1367.37,smartphones,4.4,0,"['smartphones', 'samsung galaxy']",Samsung,James,Garcia,46,male,jamesg
+4,456.83,443.23,87,4,17,187,Golden Shoes Woman,49.99,5,249.95000000000002,1.64,245.85,womens-shoes,3.26,88,"['footwear', ""women's shoes""]",Fashion Diva,Hunter,Gordon,34,male,hunterg
+4,456.83,443.23,87,4,17,40,Strawberry,3.99,5,19.950000000000003,4.6,19.03,groceries,3.08,46,['fruits'],Unknown,Hunter,Gordon,34,male,hunterg
+4,456.83,443.23,87,4,17,156,Green and Black Glasses,34.99,5,174.95000000000002,4.34,167.36,sunglasses,4.55,24,"['eyewear', 'sunglasses']",Fashion Shades,Hunter,Gordon,34,male,hunterg
+4,456.83,443.23,87,4,17,62,Ice Cube Tray,5.99,2,11.98,8.25,10.99,kitchen-accessories,4.71,13,"['kitchen tools', 'ice cube trays']",Unknown,Hunter,Gordon,34,male,hunterg
+5,7431.3,6676.44,134,6,20,108,iPhone 12 Silicone Case with MagSafe Plum,29.99,2,59.98,14.68,51.17,mobile-accessories,3.62,69,"['electronics', 'phone accessories']",Apple,Nora,Russell,25,female,noramx
+5,7431.3,6676.44,134,6,20,138,Baseball Ball,8.99,5,44.95,18.49,36.64,sports-accessories,2.57,100,"['sports equipment', 'baseball']",Unknown,Nora,Russell,25,female,noramx
+5,7431.3,6676.44,134,6,20,157,Party Glasses,19.99,2,39.98,19.17,32.32,sunglasses,2.79,86,"['eyewear', 'party glasses']",Fashion Fun,Nora,Russell,25,female,noramx
+5,7431.3,6676.44,134,6,20,8,Dior J'adore,89.99,3,269.96999999999997,10.79,240.84,fragrances,3.8,98,"['fragrances', 'perfumes']",Dior,Nora,Russell,25,female,noramx
+5,7431.3,6676.44,134,6,20,80,Huawei Matebook X Pro,1399.99,5,6999.95,9.99,6300.65,laptops,4.98,75,['laptops'],Huawei,Nora,Russell,25,female,noramx
+5,7431.3,6676.44,134,6,20,28,Ice Cream,5.49,3,16.47,10.0,14.82,groceries,3.39,27,['desserts'],Unknown,Nora,Russell,25,female,noramx
+6,35199.86,31435.05,150,4,14,172,Blue Women's Handbag,49.99,5,249.95000000000002,8.08,229.75,womens-bags,2.92,76,"['fashion accessories', 'handbags']",Fashionista,Stella,Morris,40,female,stellas
+6,35199.86,31435.05,150,4,14,112,TV Studio Camera Pedestal,499.99,3,1499.97,15.69,1264.62,mobile-accessories,2.78,15,"['electronics', 'camera accessories']",ProVision,Stella,Morris,40,female,stellas
+6,35199.86,31435.05,150,4,14,97,Rolex Datejust,10999.99,3,32999.97,10.58,29508.57,mens-watches,3.66,86,"['watches', 'luxury watches']",Rolex,Stella,Morris,40,female,stellas
+6,35199.86,31435.05,150,4,14,128,Realme C35,149.99,3,449.97,3.97,432.11,smartphones,4.2,48,"['smartphones', 'realme']",Realme,Stella,Morris,40,female,stellas
+7,145651.89,128504.41,86,3,11,167,300 Touring,28999.99,5,144999.95,11.78,127918.96,vehicle,4.05,54,"['sedans', 'vehicles']",Chrysler,Nora,Mills,27,female,noram
+7,145651.89,128504.41,86,3,11,111,Selfie Stick Monopod,12.99,4,51.96,10.98,46.25,mobile-accessories,3.88,11,"['electronics', 'selfie accessories']",SnapTech,Nora,Mills,27,female,noram
+7,145651.89,128504.41,86,3,11,129,Realme X,299.99,2,599.98,10.13,539.2,smartphones,3.7,12,"['smartphones', 'realme']",Realme,Nora,Mills,27,female,noram
+8,15685.86,12666.75,23,4,14,117,Sportbike Motorcycle,7499.99,2,14999.98,19.83,12025.48,motorcycle,3.94,0,"['motorcycles', 'sportbikes']",SpeedMaster,Chloe,Morales,40,female,chloem
+8,15685.86,12666.75,23,4,14,18,Cat Food,8.99,4,35.96,1.15,35.55,groceries,3.13,46,"['pet supplies', 'cat food']",Unknown,Chloe,Morales,40,female,chloem
+8,15685.86,12666.75,23,4,14,105,Apple MagSafe Battery Pack,99.99,5,499.95,7.14,464.25,mobile-accessories,3.62,1,"['electronics', 'power banks']",Apple,Chloe,Morales,40,female,chloem
+8,15685.86,12666.75,23,4,14,6,Calvin Klein CK One,49.99,3,149.97,5.67,141.47,fragrances,4.37,29,"['fragrances', 'perfumes']",Calvin Klein,Chloe,Morales,40,female,chloem
+9,65529.87,63336.57,194,4,13,178,Corset Leather With Skirt,89.99,2,179.98,12.59,157.32,womens-dresses,3.05,30,"['clothing', 'corsets', 'skirts']",Unknown,Brayden,Hill,46,male,braydenh
+9,65529.87,63336.57,194,4,13,191,Rolex Cellini Moonphase,15999.99,4,63999.96,3.26,61913.56,womens-watches,3.83,52,"['watches', 'luxury watches']",Rolex,Brayden,Hill,46,male,braydenh
+9,65529.87,63336.57,194,4,13,47,Table Lamp,49.99,2,99.98,13.74,86.24,home-decoration,3.55,9,"['home decor', 'lighting']",Unknown,Brayden,Hill,46,male,braydenh
+9,65529.87,63336.57,194,4,13,134,Vivo S1,249.99,5,1249.95,5.64,1179.45,smartphones,3.5,50,"['smartphones', 'vivo']",Vivo,Brayden,Hill,46,male,braydenh
+10,29499.92,25675.13,160,2,8,190,IWC Ingenieur Automatic Steel,4999.99,5,24999.949999999997,12.34,21914.96,womens-watches,2.93,90,"['watches', 'luxury watches']",IWC,Claire,Foster,30,female,claires
+10,29499.92,25675.13,160,2,8,94,Longines Master Collection,1499.99,3,4499.97,16.44,3760.17,mens-watches,3.87,100,"['watches', 'luxury watches']",Longines,Claire,Foster,30,female,claires
+11,568.36,476.76,172,6,14,88,Nike Air Jordan 1 Red And Black,149.99,1,149.99,17.18,124.22,mens-shoes,4.77,7,"['footwear', 'athletic shoes']",Nike,Ariana,Ross,37,female,arianaw
+11,568.36,476.76,172,6,14,32,Milk,3.49,3,10.47,9.36,9.49,groceries,2.61,27,['dairy'],Unknown,Ariana,Ross,37,female,arianaw
+11,568.36,476.76,172,6,14,74,Spoon,4.99,3,14.97,2.78,14.55,kitchen-accessories,4.03,59,"['kitchen tools', 'utensils']",Unknown,Ariana,Ross,37,female,arianaw
+11,568.36,476.76,172,6,14,145,Cricket Wicket,29.99,3,89.97,17.87,73.89,sports-accessories,4.73,25,"['sports equipment', 'cricket']",Unknown,Ariana,Ross,37,female,arianaw
+11,568.36,476.76,172,6,14,26,Green Chili Pepper,0.99,3,2.9699999999999998,18.69,2.41,groceries,3.66,3,['vegetables'],Unknown,Ariana,Ross,37,female,arianaw
+11,568.36,476.76,172,6,14,127,Oppo K1,299.99,1,299.99,15.93,252.2,smartphones,4.25,55,"['smartphones', 'oppo']",Oppo,Ariana,Ross,37,female,arianaw
+12,931.91,798.02,202,2,9,63,Kitchen Sieve,7.99,4,31.96,18.8,25.95,kitchen-accessories,3.09,68,"['kitchen tools', 'strainers']",Unknown,Caleb,Nelson,37,male,calebn
+12,931.91,798.02,202,2,9,181,Marni Red & Black Suit,179.99,5,899.95,14.21,772.07,womens-dresses,4.48,62,"['clothing', 'suits']",Unknown,Caleb,Nelson,37,male,calebn
+13,793.07,750.8,41,5,13,85,Man Plaid Shirt,34.99,2,69.98,3.7,67.39,mens-shirts,3.46,82,"['clothing', ""men's shirts""]",Classic Wear,Evan,Reed,33,male,evanr
+13,793.07,750.8,41,5,13,109,Monopod,19.99,3,59.97,12.95,52.2,mobile-accessories,4.43,48,"['electronics', 'camera accessories']",TechGear,Evan,Reed,33,male,evanr
+13,793.07,750.8,41,5,13,160,Samsung Galaxy Tab S8 Plus Grey,599.99,1,599.99,4.31,574.13,tablets,4.68,62,"['electronics', 'tablets']",Samsung,Evan,Reed,33,male,evanr
+13,793.07,750.8,41,5,13,163,Girl Summer Dress,19.99,3,59.97,9.44,54.31,tops,4.77,43,"['clothing', ""girls' dresses""]",Unknown,Evan,Reed,33,male,evanr
+13,793.07,750.8,41,5,13,31,Lemon,0.79,4,3.16,12.32,2.77,groceries,3.53,31,['fruits'],Unknown,Evan,Reed,33,male,evanr
+14,586.82,500.25,94,6,18,92,Sports Sneakers Off White Red,109.99,3,329.96999999999997,17.73,271.47,mens-shoes,4.69,62,"['footwear', 'casual shoes']",Off White,Ruby,Andrews,29,female,rubya
+14,586.82,500.25,94,6,18,54,Citrus Squeezer Yellow,8.99,5,44.95,6.3,42.12,kitchen-accessories,4.63,22,"['kitchen tools', 'juicers']",Unknown,Ruby,Andrews,29,female,rubya
+14,586.82,500.25,94,6,18,76,Wooden Rolling Pin,11.99,1,11.99,8.45,10.98,kitchen-accessories,2.92,80,"['kitchen tools', 'baking']",Unknown,Ruby,Andrews,29,female,rubya
+14,586.82,500.25,94,6,18,44,Family Tree Photo Frame,29.99,5,149.95,10.68,133.94,home-decoration,4.53,77,"['home decor', 'photo frame']",Unknown,Ruby,Andrews,29,female,rubya
+14,586.82,500.25,94,6,18,67,Mug Tree Stand,15.99,3,47.97,16.65,39.98,kitchen-accessories,2.64,88,"['kitchen tools', 'organization']",Unknown,Ruby,Andrews,29,female,rubya
+14,586.82,500.25,94,6,18,16,Apple,1.99,1,1.99,11.74,1.76,groceries,4.19,8,['fruits'],Unknown,Ruby,Andrews,29,female,rubya
+15,11741.31,10940.95,11,5,19,11,Annibale Colombo Bed,1899.99,5,9499.95,8.09,8731.4,furniture,4.77,88,"['furniture', 'beds']",Annibale Colombo,Liam,Garcia,30,male,liamg
+15,11741.31,10940.95,11,5,19,133,Samsung Galaxy S10,699.99,3,2099.9700000000003,1.12,2076.45,smartphones,3.06,19,"['smartphones', 'samsung galaxy']",Samsung,Liam,Garcia,30,male,liamg
+15,11741.31,10940.95,11,5,19,111,Selfie Stick Monopod,12.99,3,38.97,10.98,34.69,mobile-accessories,3.88,11,"['electronics', 'selfie accessories']",SnapTech,Liam,Garcia,30,male,liamg
+15,11741.31,10940.95,11,5,19,162,Blue Frock,29.99,3,89.97,3.86,86.5,tops,4.17,52,"['clothing', 'dresses']",Unknown,Liam,Garcia,30,male,liamg
+15,11741.31,10940.95,11,5,19,30,Kiwi,2.49,5,12.450000000000001,4.34,11.91,groceries,4.93,99,['fruits'],Unknown,Liam,Garcia,30,male,liamg
+16,172.24,155.84,200,3,6,19,Chicken Meat,9.99,2,19.98,13.37,17.31,groceries,3.19,97,['meat'],Unknown,Adrian,Flores,44,male,adrianf
+16,172.24,155.84,200,3,6,152,Tennis Racket,49.99,3,149.97,9.13,136.28,sports-accessories,4.03,6,"['sports equipment', 'tennis']",Unknown,Adrian,Flores,44,male,adrianf
+16,172.24,155.84,200,3,6,35,Potatoes,2.29,1,2.29,1.69,2.25,groceries,4.81,13,['vegetables'],Unknown,Adrian,Flores,44,male,adrianf
+17,192.87,173.9,141,4,13,1,Essence Mascara Lash Princess,9.99,2,19.98,0.63,19.85,beauty,2.56,99,"['beauty', 'mascara']",Essence,Owen,Sullivan,44,male,owens
+17,192.87,173.9,141,4,13,60,Grater Black,10.99,3,32.97,16.62,27.49,kitchen-accessories,3.21,84,"['kitchen tools', 'graters']",Unknown,Owen,Sullivan,44,male,owens
+17,192.87,173.9,141,4,13,74,Spoon,4.99,4,19.96,2.78,19.41,kitchen-accessories,4.03,59,"['kitchen tools', 'utensils']",Unknown,Owen,Sullivan,44,male,owens
+17,192.87,173.9,141,4,13,44,Family Tree Photo Frame,29.99,4,119.96,10.68,107.15,home-decoration,4.53,77,"['home decor', 'photo frame']",Unknown,Owen,Sullivan,44,male,owens
+18,1464.78,1257.94,189,6,22,127,Oppo K1,299.99,4,1199.96,15.93,1008.81,smartphones,4.25,55,"['smartphones', 'oppo']",Oppo,Tristan,Scott,31,male,tristans
+18,1464.78,1257.94,189,6,22,24,Fish Steak,14.99,3,44.97,7.66,41.53,groceries,3.78,74,['seafood'],Unknown,Tristan,Scott,31,male,tristans
+18,1464.78,1257.94,189,6,22,20,Cooking Oil,4.99,5,24.950000000000003,12.62,21.8,groceries,4.8,10,['cooking essentials'],Unknown,Tristan,Scott,31,male,tristans
+18,1464.78,1257.94,189,6,22,154,Black Sun Glasses,29.99,3,89.97,1.11,88.97,sunglasses,4.41,60,"['eyewear', 'sunglasses']",Fashion Shades,Tristan,Scott,31,male,tristans
+18,1464.78,1257.94,189,6,22,44,Family Tree Photo Frame,29.99,2,59.98,10.68,53.57,home-decoration,4.53,77,"['home decor', 'photo frame']",Unknown,Tristan,Scott,31,male,tristans
+18,1464.78,1257.94,189,6,22,5,Red Nail Polish,8.99,5,44.95,3.76,43.26,beauty,4.32,79,"['beauty', 'nail polish']",Nail Couture,Tristan,Scott,31,male,tristans
+19,933.87,794.78,59,4,13,187,Golden Shoes Woman,49.99,3,149.97,1.64,147.51,womens-shoes,3.26,88,"['footwear', ""women's shoes""]",Fashion Diva,Ethan,Fletcher,34,male,ethanf
+19,933.87,794.78,59,4,13,153,Volleyball,11.99,5,59.95,16.05,50.33,sports-accessories,3.84,0,"['sports equipment', 'volleyball']",Unknown,Ethan,Fletcher,34,male,ethanf
+19,933.87,794.78,59,4,13,34,Nescafe Coffee,7.99,3,23.97,8.31,21.98,groceries,4.82,57,"['beverages', 'coffee']",Unknown,Ethan,Fletcher,34,male,ethanf
+19,933.87,794.78,59,4,13,130,Realme XT,349.99,2,699.98,17.86,574.96,smartphones,4.58,80,"['smartphones', 'realme']",Realme,Ethan,Fletcher,34,male,ethanf
+20,3534.78,2936.58,90,6,22,107,Beats Flex Wireless Earphones,49.99,1,49.99,8.79,45.6,mobile-accessories,4.24,50,"['electronics', 'wireless earphones']",Beats,Scarlett,Bowman,28,female,scarlettb
+20,3534.78,2936.58,90,6,22,193,Watch Gold for Women,799.99,3,2399.9700000000003,19.53,1931.26,womens-watches,4.24,0,"['watches', ""women's watches""]",Fashion Gold,Scarlett,Bowman,28,female,scarlettb
+20,3534.78,2936.58,90,6,22,100,Apple Airpods,129.99,3,389.97,12.84,339.9,mobile-accessories,4.15,67,"['electronics', 'wireless earphones']",Apple,Scarlett,Bowman,28,female,scarlettb
+20,3534.78,2936.58,90,6,22,90,Puma Future Rider Trainers,89.99,5,449.95,14.7,383.81,mens-shoes,4.9,90,"['footwear', 'casual shoes']",Puma,Scarlett,Bowman,28,female,scarlettb
+20,3534.78,2936.58,90,6,22,118,Attitude Super Leaves Hand Soap,8.99,5,44.95,7.23,41.7,skin-care,3.19,94,"['personal care', 'hand soap']",Attitude,Scarlett,Bowman,28,female,scarlettb
+20,3534.78,2936.58,90,6,22,166,Tartan Dress,39.99,5,199.95000000000002,2.82,194.31,tops,4.05,73,"['clothing', 'dresses']",Unknown,Scarlett,Bowman,28,female,scarlettb
+21,251.96,245.68,42,2,4,77,Yellow Peeler,5.99,2,11.98,13.16,10.4,kitchen-accessories,4.24,35,"['kitchen tools', 'peelers']",Unknown,Avery,Carter,29,female,averyc
+21,251.96,245.68,42,2,4,91,Sports Sneakers Off White & Red,119.99,2,239.98,1.96,235.28,mens-shoes,4.77,17,"['footwear', 'athletic shoes']",Off White,Avery,Carter,29,female,averyc
+22,222.88,205.63,140,4,12,73,Spice Rack,19.99,5,99.94999999999999,8.74,91.21,kitchen-accessories,4.87,79,"['kitchen tools', 'organization']",Unknown,Hannah,Howard,36,female,hannahg
+22,222.88,205.63,140,4,12,2,Eyeshadow Palette with Mirror,19.99,2,39.98,0.7,39.7,beauty,2.86,34,"['beauty', 'eyeshadow']",Glamour Beauty,Hannah,Howard,36,female,hannahg
+22,222.88,205.63,140,4,12,69,Plate,3.99,2,7.98,16.0,6.7,kitchen-accessories,3.65,66,"['dinnerware', 'plates']",Unknown,Hannah,Howard,36,female,hannahg
+22,222.88,205.63,140,4,12,155,Classic Sun Glasses,24.99,3,74.97,9.27,68.02,sunglasses,3.86,1,"['eyewear', 'sunglasses']",Fashion Shades,Hannah,Howard,36,female,hannahg
+23,7757.8,7439.98,147,5,20,82,New DELL XPS 13 9300 Laptop,1499.99,5,7499.95,3.9,7207.45,laptops,2.67,74,['laptops'],Dell,Henry,Turner,45,male,henryt
+23,7757.8,7439.98,147,5,20,172,Blue Women's Handbag,49.99,4,199.96,8.08,183.8,womens-bags,2.92,76,"['fashion accessories', 'handbags']",Fashionista,Henry,Turner,45,male,henryt
+23,7757.8,7439.98,147,5,20,41,Tissue Paper Box,2.49,2,4.98,2.74,4.84,groceries,2.69,86,['household essentials'],Unknown,Henry,Turner,45,male,henryt
+23,7757.8,7439.98,147,5,20,37,Red Onions,1.99,4,7.96,8.95,7.25,groceries,4.2,82,['vegetables'],Unknown,Henry,Turner,45,male,henryt
+23,7757.8,7439.98,147,5,20,138,Baseball Ball,8.99,5,44.95,18.49,36.64,sports-accessories,2.57,100,"['sports equipment', 'baseball']",Unknown,Henry,Turner,45,male,henryt
+24,1749.9,1594.33,6,3,10,108,iPhone 12 Silicone Case with MagSafe Plum,29.99,5,149.95,14.68,127.94,mobile-accessories,3.62,69,"['electronics', 'phone accessories']",Apple,Olivia,Wilson,23,female,oliviaw
+24,1749.9,1594.33,6,3,10,134,Vivo S1,249.99,4,999.96,5.64,943.56,smartphones,3.5,50,"['smartphones', 'vivo']",Vivo,Olivia,Wilson,23,female,oliviaw
+24,1749.9,1594.33,6,3,10,174,Prada Women Bag,599.99,1,599.99,12.86,522.83,womens-bags,2.71,75,"['fashion accessories', 'designer bags']",Prada,Olivia,Wilson,23,female,oliviaw
+25,412.98,353.55,118,2,2,4,Red Lipstick,12.99,1,12.99,14.69,11.08,beauty,4.36,91,"['beauty', 'lipstick']",Chic Cosmetics,Benjamin,Wilson,31,male,benjaminw
+25,412.98,353.55,118,2,2,126,Oppo F19 Pro+,399.99,1,399.99,14.38,342.47,smartphones,3.51,78,"['smartphones', 'oppo']",Oppo,Benjamin,Wilson,31,male,benjaminw
+26,459.92,441.17,66,2,8,37,Red Onions,1.99,5,9.95,8.95,9.06,groceries,4.2,82,['vegetables'],Unknown,Aria,Ferguson,28,female,ariaf
+26,459.92,441.17,66,2,8,128,Realme C35,149.99,3,449.97,3.97,432.11,smartphones,4.2,48,"['smartphones', 'realme']",Realme,Aria,Ferguson,28,female,ariaf
+27,190.89,170.95,75,4,11,33,Mulberry,4.99,1,4.99,2.75,4.85,groceries,4.95,99,['fruits'],Unknown,Ryan,Graham,32,male,ryang
+27,190.89,170.95,75,4,11,110,Selfie Lamp with iPhone,14.99,2,29.98,19.87,24.02,mobile-accessories,3.55,58,"['electronics', 'selfie accessories']",GadgetMaster,Ryan,Graham,32,male,ryang
+27,190.89,170.95,75,4,11,16,Apple,1.99,3,5.97,11.74,5.27,groceries,4.19,8,['fruits'],Unknown,Ryan,Graham,32,male,ryang
+27,190.89,170.95,75,4,11,83,Blue & Black Check Shirt,29.99,5,149.95,8.76,136.81,mens-shirts,3.64,38,"['clothing', ""men's shirts""]",Fashion Trends,Ryan,Graham,32,male,ryang
+28,209.91,186.09,147,2,9,1,Essence Mascara Lash Princess,9.99,5,49.95,0.63,49.64,beauty,2.56,99,"['beauty', 'mascara']",Essence,Henry,Turner,45,male,henryt
+28,209.91,186.09,147,2,9,141,Basketball Rim,39.99,4,159.96,14.7,136.45,sports-accessories,4.6,43,"['sports equipment', 'basketball']",Unknown,Henry,Turner,45,male,henryt
+29,3862.43,3488.44,170,5,17,80,Huawei Matebook X Pro,1399.99,2,2799.98,9.99,2520.26,laptops,4.98,75,['laptops'],Huawei,Penelope,King,34,female,penelopet
+29,3862.43,3488.44,170,5,17,107,Beats Flex Wireless Earphones,49.99,4,199.96,8.79,182.38,mobile-accessories,4.24,50,"['electronics', 'wireless earphones']",Beats,Penelope,King,34,female,penelopet
+29,3862.43,3488.44,170,5,17,25,Green Bell Pepper,1.29,2,2.58,1.2,2.55,groceries,3.25,33,['vegetables'],Unknown,Penelope,King,34,female,penelopet
+29,3862.43,3488.44,170,5,17,121,iPhone 5s,199.99,4,799.96,8.38,732.92,smartphones,2.83,25,"['smartphones', 'apple']",Apple,Penelope,King,34,female,penelopet
+29,3862.43,3488.44,170,5,17,153,Volleyball,11.99,5,59.95,16.05,50.33,sports-accessories,3.84,0,"['sports equipment', 'volleyball']",Unknown,Penelope,King,34,female,penelopet
+30,128249.07,118740.76,177,4,13,181,Marni Red & Black Suit,179.99,1,179.99,14.21,154.41,womens-dresses,4.48,62,"['clothing', 'suits']",Unknown,Xavier,Wright,38,male,xavierw
+30,128249.07,118740.76,177,4,13,171,Pacifica Touring,31999.99,4,127999.96,7.4,118527.96,vehicle,3.62,53,"['minivans', 'vehicles']",Chrysler,Xavier,Wright,38,male,xavierw
+30,128249.07,118740.76,177,4,13,35,Potatoes,2.29,4,9.16,1.69,9.01,groceries,4.81,13,['vegetables'],Unknown,Xavier,Wright,38,male,xavierw
+30,128249.07,118740.76,177,4,13,46,Plant Pot,14.99,4,59.96,17.65,49.38,home-decoration,3.01,59,"['home decor', 'plant accessories']",Unknown,Xavier,Wright,38,male,xavierw
+31,4749.87,4454.75,143,4,13,41,Tissue Paper Box,2.49,4,9.96,2.74,9.69,groceries,2.69,86,['household essentials'],Unknown,Grayson,Coleman,31,male,graysonc
+31,4749.87,4454.75,143,4,13,10,Gucci Bloom Eau de,79.99,3,239.96999999999997,0.19,239.51,fragrances,2.74,91,"['fragrances', 'perfumes']",Gucci,Grayson,Coleman,31,male,graysonc
+31,4749.87,4454.75,143,4,13,124,iPhone X,899.99,3,2699.9700000000003,8.03,2483.16,smartphones,2.51,37,"['smartphones', 'apple']",Apple,Grayson,Coleman,31,male,graysonc
+31,4749.87,4454.75,143,4,13,160,Samsung Galaxy Tab S8 Plus Grey,599.99,3,1799.97,4.31,1722.39,tablets,4.68,62,"['electronics', 'tablets']",Samsung,Grayson,Coleman,31,male,graysonc
+32,65519.87,58436.16,164,4,13,134,Vivo S1,249.99,2,499.98,5.64,471.78,smartphones,3.5,50,"['smartphones', 'vivo']",Vivo,Addison,Ward,30,female,addisonf
+32,65519.87,58436.16,164,4,13,97,Rolex Datejust,10999.99,5,54999.95,10.58,49180.96,mens-watches,3.66,86,"['watches', 'luxury watches']",Rolex,Addison,Ward,30,female,addisonf
+32,65519.87,58436.16,164,4,13,190,IWC Ingenieur Automatic Steel,4999.99,2,9999.98,12.34,8765.98,womens-watches,2.93,90,"['watches', 'luxury watches']",IWC,Addison,Ward,30,female,addisonf
+32,65519.87,58436.16,164,4,13,20,Cooking Oil,4.99,4,19.96,12.62,17.44,groceries,4.8,10,['cooking essentials'],Unknown,Addison,Ward,30,female,addisonf
+33,229.93,210.56,181,2,7,105,Apple MagSafe Battery Pack,99.99,2,199.98,7.14,185.7,mobile-accessories,3.62,1,"['electronics', 'power banks']",Apple,Brandon,Collins,27,male,brandonc
+33,229.93,210.56,181,2,7,49,Black Aluminium Cup,5.99,5,29.950000000000003,17.01,24.86,kitchen-accessories,4.46,75,"['drinkware', 'cups']",Unknown,Brandon,Collins,27,male,brandonc
+34,830.83,766.56,203,4,17,89,Nike Baseball Cleats,79.99,5,399.95,6.13,375.43,mens-shoes,3.88,12,"['footwear', 'sports cleats']",Nike,Nova,Cooper,32,female,novab
+34,830.83,766.56,203,4,17,93,Brown Leather Belt Watch,89.99,4,359.96,8.72,328.57,mens-watches,4.19,32,"['watches', 'leather watches']",Fashion Timepieces,Nova,Cooper,32,female,novab
+34,830.83,766.56,203,4,17,55,Egg Slicer,6.99,3,20.97,16.04,17.61,kitchen-accessories,3.09,40,"['kitchen tools', 'slicers']",Unknown,Nova,Cooper,32,female,novab
+34,830.83,766.56,203,4,17,57,Fine Mesh Strainer,9.99,5,49.95,10.02,44.95,kitchen-accessories,3.04,85,"['kitchen tools', 'strainers']",Unknown,Nova,Cooper,32,female,novab
+35,417.87,373.69,153,4,13,104,Apple iPhone Charger,19.99,5,99.94999999999999,11.73,88.23,mobile-accessories,4.15,31,"['electronics', 'chargers']",Apple,Christian,Perez,32,male,christianp
+35,417.87,373.69,153,4,13,54,Citrus Squeezer Yellow,8.99,2,17.98,6.3,16.85,kitchen-accessories,4.63,22,"['kitchen tools', 'juicers']",Unknown,Christian,Perez,32,male,christianp
+35,417.87,373.69,153,4,13,152,Tennis Racket,49.99,1,49.99,9.13,45.43,sports-accessories,4.03,6,"['sports equipment', 'tennis']",Unknown,Christian,Perez,32,male,christianp
+35,417.87,373.69,153,4,13,56,Electric Stove,49.99,5,249.95000000000002,10.71,223.18,kitchen-accessories,4.11,21,"['kitchen appliances', 'cooktops']",Unknown,Christian,Perez,32,male,christianp
+36,1875.89,1728.16,176,3,11,26,Green Chili Pepper,0.99,1,0.99,18.69,0.8,groceries,3.66,3,['vegetables'],Unknown,Aaliyah,Martinez,29,female,aaliyaha
+36,1875.89,1728.16,176,3,11,165,Short Frock,24.99,5,124.94999999999999,3.23,120.91,tops,3.23,22,"['clothing', 'dresses']",Unknown,Aaliyah,Martinez,29,female,aaliyaha
+36,1875.89,1728.16,176,3,11,106,Apple Watch Series 4 Gold,349.99,5,1749.95,8.2,1606.45,mobile-accessories,2.74,33,"['electronics', 'smartwatches']",Apple,Aaliyah,Martinez,29,female,aaliyaha
+37,160289.86,148416.41,33,4,14,171,Pacifica Touring,31999.99,5,159999.95,7.4,148159.95,vehicle,3.62,53,"['minivans', 'vehicles']",Chrysler,Carter,Baker,32,male,carterb
+37,160289.86,148416.41,33,4,14,71,Silver Pot With Glass Cap,39.99,4,159.96,17.64,131.74,kitchen-accessories,3.22,40,"['cookware', 'pots']",Unknown,Carter,Baker,32,male,carterb
+37,160289.86,148416.41,33,4,14,68,Pan,24.99,4,99.96,5.16,94.8,kitchen-accessories,2.79,90,"['cookware', 'pans']",Unknown,Carter,Baker,32,male,carterb
+37,160289.86,148416.41,33,4,14,182,Green Crystal Earring,29.99,1,29.99,0.23,29.92,womens-jewellery,3.96,54,"['fashion accessories', 'earrings']",Unknown,Carter,Baker,32,male,carterb
+38,3359.79,3262.64,15,6,21,44,Family Tree Photo Frame,29.99,5,149.95,10.68,133.94,home-decoration,4.53,77,"['home decor', 'photo frame']",Unknown,William,Gonzalez,33,male,williamg
+38,3359.79,3262.64,15,6,21,68,Pan,24.99,3,74.97,5.16,71.1,kitchen-accessories,2.79,90,"['cookware', 'pans']",Unknown,William,Gonzalez,33,male,williamg
+38,3359.79,3262.64,15,6,21,149,Iron Golf,49.99,4,199.96,12.89,174.19,sports-accessories,4.41,90,"['sports equipment', 'golf']",Unknown,William,Gonzalez,33,male,williamg
+38,3359.79,3262.64,15,6,21,139,Baseball Glove,24.99,3,74.97,12.13,65.88,sports-accessories,3.96,22,"['sports equipment', 'baseball']",Unknown,William,Gonzalez,33,male,williamg
+38,3359.79,3262.64,15,6,21,150,Metal Baseball Bat,29.99,2,59.98,18.43,48.93,sports-accessories,4.66,16,"['sports equipment', 'baseball']",Unknown,William,Gonzalez,33,male,williamg
+38,3359.79,3262.64,15,6,21,133,Samsung Galaxy S10,699.99,4,2799.96,1.12,2768.6,smartphones,3.06,19,"['smartphones', 'samsung galaxy']",Samsung,William,Gonzalez,33,male,williamg
+39,44376.84,39690.05,81,6,16,179,Corset With Black Skirt,79.99,3,239.96999999999997,9.94,216.12,womens-dresses,4.52,33,"['clothing', 'corsets', 'skirts']",Unknown,Austin,Hudson,30,male,austinh
+39,44376.84,39690.05,81,6,16,39,Soft Drinks,1.99,1,1.99,5.99,1.87,groceries,4.75,53,['beverages'],Unknown,Austin,Hudson,30,male,austinh
+39,44376.84,39690.05,81,6,16,143,Cricket Bat,29.99,1,29.99,9.21,27.23,sports-accessories,3.17,98,"['sports equipment', 'cricket']",Unknown,Austin,Hudson,30,male,austinh
+39,44376.84,39690.05,81,6,16,18,Cat Food,8.99,4,35.96,1.15,35.55,groceries,3.13,46,"['pet supplies', 'cat food']",Unknown,Austin,Hudson,30,male,austinh
+39,44376.84,39690.05,81,6,16,158,Sunglasses,22.99,3,68.97,6.45,64.52,sunglasses,3.02,27,"['eyewear', 'sunglasses']",Fashion Shades,Austin,Hudson,30,male,austinh
+39,44376.84,39690.05,81,6,16,97,Rolex Datejust,10999.99,4,43999.96,10.58,39344.76,mens-watches,3.66,86,"['watches', 'luxury watches']",Rolex,Austin,Hudson,30,male,austinh
+40,98499.82,91112.07,187,6,18,138,Baseball Ball,8.99,1,8.99,18.49,7.33,sports-accessories,2.57,100,"['sports equipment', 'baseball']",Unknown,Zachary,Lee,37,male,zacharyl
+40,98499.82,91112.07,187,6,18,51,Boxed Blender,39.99,2,79.98,12.67,69.85,kitchen-accessories,4.56,9,"['kitchen appliances', 'blenders']",Unknown,Zachary,Lee,37,male,zacharyl
+40,98499.82,91112.07,187,6,18,101,Apple AirPods Max Silver,549.99,4,2199.96,11.41,1948.94,mobile-accessories,3.47,59,"['electronics', 'over-ear headphones']",Apple,Zachary,Lee,37,male,zacharyl
+40,98499.82,91112.07,187,6,18,153,Volleyball,11.99,3,35.97,16.05,30.2,sports-accessories,3.84,0,"['sports equipment', 'volleyball']",Unknown,Zachary,Lee,37,male,zacharyl
+40,98499.82,91112.07,187,6,18,164,Gray Dress,34.99,5,174.95000000000002,8.67,159.78,tops,2.72,55,"['clothing', 'dresses']",Unknown,Zachary,Lee,37,male,zacharyl
+40,98499.82,91112.07,187,6,18,171,Pacifica Touring,31999.99,3,95999.97,7.4,88895.97,vehicle,3.62,53,"['minivans', 'vehicles']",Chrysler,Zachary,Lee,37,male,zacharyl
+41,944.0,879.45,184,6,20,25,Green Bell Pepper,1.29,4,5.16,1.2,5.1,groceries,3.25,33,['vegetables'],Unknown,Natalie,Price,29,female,nataliehx
+41,944.0,879.45,184,6,20,50,Black Whisk,9.99,1,9.99,18.21,8.17,kitchen-accessories,3.9,73,"['kitchen tools', 'utensils']",Unknown,Natalie,Price,29,female,nataliehx
+41,944.0,879.45,184,6,20,151,Tennis Ball,6.99,4,27.96,9.43,25.32,sports-accessories,4.06,28,"['sports equipment', 'tennis']",Unknown,Natalie,Price,29,female,nataliehx
+41,944.0,879.45,184,6,20,42,Water,0.99,1,0.99,3.2,0.96,groceries,4.96,53,['beverages'],Unknown,Natalie,Price,29,female,nataliehx
+41,944.0,879.45,184,6,20,10,Gucci Bloom Eau de,79.99,5,399.95,0.19,399.19,fragrances,2.74,91,"['fragrances', 'perfumes']",Gucci,Natalie,Price,29,female,nataliehx
+41,944.0,879.45,184,6,20,103,Apple HomePod Mini Cosmic Grey,99.99,5,499.95,11.85,440.71,mobile-accessories,4.62,27,"['electronics', 'smart speakers']",Apple,Natalie,Price,29,female,nataliehx
+42,12059.93,10063.74,67,2,7,113,Generic Motorcycle,3999.99,3,11999.97,16.57,10011.57,motorcycle,4.91,34,['motorcycles'],Generic Motors,Gabriel,Hayes,35,male,gabrielh
+42,12059.93,10063.74,67,2,7,64,Knife,14.99,4,59.96,13.0,52.17,kitchen-accessories,3.26,7,"['kitchen tools', 'cutlery']",Unknown,Gabriel,Hayes,35,male,gabrielh
+43,179.96,160.56,35,2,4,182,Green Crystal Earring,29.99,1,29.99,0.23,29.92,womens-jewellery,3.96,54,"['fashion accessories', 'earrings']",Unknown,Jack,Ward,30,male,jackw
+43,179.96,160.56,35,2,4,149,Iron Golf,49.99,3,149.97,12.89,130.64,sports-accessories,4.41,90,"['sports equipment', 'golf']",Unknown,Jack,Ward,30,male,jackw
+44,460.87,413.86,20,4,13,93,Brown Leather Belt Watch,89.99,3,269.96999999999997,8.72,246.43,mens-watches,4.19,32,"['watches', 'leather watches']",Fashion Timepieces,Jackson,Evans,35,male,jacksone
+44,460.87,413.86,20,4,13,4,Red Lipstick,12.99,2,25.98,14.69,22.16,beauty,4.36,91,"['beauty', 'lipstick']",Chic Cosmetics,Jackson,Evans,35,male,jacksone
+44,460.87,413.86,20,4,13,140,Basketball,14.99,5,74.95,15.7,63.18,sports-accessories,4.66,75,"['sports equipment', 'basketball']",Unknown,Jackson,Evans,35,male,jacksone
+44,460.87,413.86,20,4,13,83,Blue & Black Check Shirt,29.99,3,89.97,8.76,82.09,mens-shirts,3.64,38,"['clothing', ""men's shirts""]",Fashion Trends,Jackson,Evans,35,male,jacksone
+45,260.89,228.44,50,3,11,50,Black Whisk,9.99,2,19.98,18.21,16.34,kitchen-accessories,3.9,73,"['kitchen tools', 'utensils']",Unknown,Stella,Hughes,34,female,stellah
+45,260.89,228.44,50,3,11,29,Juice,3.99,4,15.96,18.86,12.95,groceries,3.94,50,['beverages'],Unknown,Stella,Hughes,34,female,stellah
+45,260.89,228.44,50,3,11,144,Cricket Helmet,44.99,5,224.95000000000002,11.47,199.15,sports-accessories,4.69,10,"['sports equipment', 'cricket']",Unknown,Stella,Hughes,34,female,stellah
+46,3603.97,2984.13,93,2,3,79,Asus Zenbook Pro Dual Screen Laptop,1799.99,2,3599.98,17.2,2980.78,laptops,3.95,45,['laptops'],Asus,Julian,Newton,35,male,juliann
+46,3603.97,2984.13,93,2,3,69,Plate,3.99,1,3.99,16.0,3.35,kitchen-accessories,3.65,66,"['dinnerware', 'plates']",Unknown,Julian,Newton,35,male,juliann
+47,457.86,407.1,23,5,14,92,Sports Sneakers Off White Red,109.99,1,109.99,17.73,90.49,mens-shoes,4.69,62,"['footwear', 'casual shoes']",Off White,Chloe,Morales,40,female,chloem
+47,457.86,407.1,23,5,14,93,Brown Leather Belt Watch,89.99,3,269.96999999999997,8.72,246.43,mens-watches,4.19,32,"['watches', 'leather watches']",Fashion Timepieces,Chloe,Morales,40,female,chloem
+47,457.86,407.1,23,5,14,38,Rice,5.99,4,23.96,12.55,20.95,groceries,3.18,59,['grains'],Unknown,Chloe,Morales,40,female,chloem
+47,457.86,407.1,23,5,14,33,Mulberry,4.99,3,14.97,2.75,14.56,groceries,4.95,99,['fruits'],Unknown,Chloe,Morales,40,female,chloem
+47,457.86,407.1,23,5,14,53,Chopping Board,12.99,3,38.97,11.04,34.67,kitchen-accessories,3.7,14,"['kitchen tools', 'cutting boards']",Unknown,Chloe,Morales,40,female,chloem
+48,10007.96,8773.59,33,2,4,40,Strawberry,3.99,2,7.98,4.6,7.61,groceries,3.08,46,['fruits'],Unknown,Carter,Baker,32,male,carterb
+48,10007.96,8773.59,33,2,4,190,IWC Ingenieur Automatic Steel,4999.99,2,9999.98,12.34,8765.98,womens-watches,2.93,90,"['watches', 'luxury watches']",IWC,Carter,Baker,32,male,carterb
+49,7016.77,6157.46,86,6,23,15,Wooden Bathroom Sink With Mirror,799.99,4,3199.96,17.11,2652.45,furniture,3.59,7,"['furniture', 'bathroom']",Bath Trends,Nora,Mills,27,female,noram
+49,7016.77,6157.46,86,6,23,76,Wooden Rolling Pin,11.99,3,35.97,8.45,32.93,kitchen-accessories,2.92,80,"['kitchen tools', 'baking']",Unknown,Nora,Mills,27,female,noram
+49,7016.77,6157.46,86,6,23,39,Soft Drinks,1.99,3,5.97,5.99,5.61,groceries,4.75,53,['beverages'],Unknown,Nora,Mills,27,female,noram
+49,7016.77,6157.46,86,6,23,158,Sunglasses,22.99,5,114.94999999999999,6.45,107.54,sunglasses,3.02,27,"['eyewear', 'sunglasses']",Fashion Shades,Nora,Mills,27,female,noram
+49,7016.77,6157.46,86,6,23,110,Selfie Lamp with iPhone,14.99,4,59.96,19.87,48.05,mobile-accessories,3.55,58,"['electronics', 'selfie accessories']",GadgetMaster,Nora,Mills,27,female,noram
+49,7016.77,6157.46,86,6,23,124,iPhone X,899.99,4,3599.96,8.03,3310.88,smartphones,2.51,37,"['smartphones', 'apple']",Apple,Nora,Mills,27,female,noram
+50,36.28,34.97,52,2,2,25,Green Bell Pepper,1.29,1,1.29,1.2,1.27,groceries,3.25,33,['vegetables'],Unknown,Grace,Perry,27,female,gracep
+50,36.28,34.97,52,2,2,85,Man Plaid Shirt,34.99,1,34.99,3.7,33.7,mens-shirts,3.46,82,"['clothing', ""men's shirts""]",Classic Wear,Grace,Perry,27,female,gracep
